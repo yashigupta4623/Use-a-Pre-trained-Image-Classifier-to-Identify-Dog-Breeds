@@ -4,7 +4,7 @@
 #                                                                             
 # PROGRAMMER: Yashi Gupta
 # DATE CREATED: 15/12/2023                                 
-# REVISED DATE: 
+# REVISED DATE: 19/12/2023
 # PURPOSE: Create a function calculates_results_stats that calculates the 
 #          statistics of the results of the programrun using the classifier's model 
 #          architecture to classify the images. This function will use the 
